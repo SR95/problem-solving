@@ -7,7 +7,7 @@
 
 Example:
 
-> `cd Python`
-> `python main.py`
+- `cd Python`
+- `python main.py`
 
 **NOTE**: You will need the corresponding language installed on your device, to run the main file.
