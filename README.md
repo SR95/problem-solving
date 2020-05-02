@@ -5,9 +5,15 @@
 - type `cd {name of language}` (at the moment, only Python has been implemented)
 - then `{name of language} main.{filetype of language}`
 
-Example:
+Example (Python):
 
 - `cd Python`
 - `python main.py`
+
+Example (Java):
+
+- `cd Java`
+- `javac main.java`
+- `java main`
 
 **NOTE**: You will need the corresponding language installed on your device, to run the main file.
