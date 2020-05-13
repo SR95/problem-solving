@@ -1,4 +1,6 @@
 # Welcome to Sagnik Roy's problem solving git repo
+This repo simply consists of random problems that I've found over the course of my programming career, that I thought I should remember for the future.
+Collection started: 4/1/2020
 
 ## Instructions for running any tests for existing problems:
 
